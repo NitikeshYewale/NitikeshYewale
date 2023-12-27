@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NitikeshYewale B.Tech Electrical
-- 👀 I’m interested in developer in software engineering
-- 🌱 I’m currently learning Python, core Java
+- 👋 Hi, I’m @NitikeshYewale B.Tech Electrical Engineer
+- 👀 I’m interested in developer position in software engineering
+- 🌱 I’m currently learning Python, Full Stack Java
 - 💞️ I’m looking for a Job
 - 📫 How to reach me https://www.linkedin.com/in/nitikesh-yewale-b1370a161/
 
