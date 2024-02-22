@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @NitikeshYewale B.Tech Electrical Engineer
-- 👀 I’m interested in developer position in software engineering
-- 🌱 I’m currently learning Python, Full Stack Java
-- 💞️ I’m looking for a Job
+
 - 🤵‍♂️ Personal Portfolio https://nitikeshyewale.github.io/PersonalPortfolio/
 
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Nitikesh and I'm a B.Tech Electrical Engineer/Software Engineer,</h2>
 
 ###
 
